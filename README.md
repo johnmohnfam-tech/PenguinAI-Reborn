@@ -5,3 +5,20 @@ Here's some sample code please add you API Key later
 
 <img width="597" height="571" alt="Screen Shot 2026-08-30 at 1 54 07 AM" src="https://github.com/user-attachments/assets/cc3c742e-77bf-4fc9-8451-1da300abc377" />
 
+To load Our Exstension follow this guide
+
+First Go to https://penguinmod.com/ and create a project
+
+<img width="781" height="551" alt="Screen Shot 2026-08-30 at 2 05 57 AM" src="https://github.com/user-attachments/assets/757f60ed-ecdb-41e6-937a-17d5d2dee8e6" />
+
+Second go to exstensions and click load custom exstension
+
+<img width="641" height="495" alt="Screen Shot 2026-08-30 at 2 15 12 AM" src="https://github.com/user-attachments/assets/d80ba869-aca6-4452-8063-52348090f142" />
+
+<img width="641" height="495" alt="Screen Shot 2026-08-30 at 2 16 32 AM" src="https://github.com/user-attachments/assets/c8bf2383-703d-4b82-911c-a3a5ca4f739d" />
+
+Third click file then import the .JS file and click run without sandbox then click load
+
+<img width="645" height="663" alt="Screen Shot 2026-08-30 at 2 19 50 AM" src="https://github.com/user-attachments/assets/378defc2-46d3-4173-ba9a-977d613bafbf" />
+
+And Fourth and last enjoy my exstension! :)
