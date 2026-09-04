@@ -20,7 +20,8 @@ Second go to exstensions and click load custom exstension
 
 Third click file then import the .JS file and click run without sandbox then click load
 
-<img width="645" height="663" alt="Screen Shot 2026-08-30 at 2 19 50 AM" src="https://github.com/user-attachments/assets/378defc2-46d3-4173-ba9a-977d613bafbf" />
+<img width="714" height="672" alt="Screen Shot 2026-09-04 at 5 12 44 PM" src="https://github.com/user-attachments/assets/36853ff2-6381-4570-a882-f7649188c3c6" />
+
 
 And Fourth and last enjoy my exstension! :)
 
