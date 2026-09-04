@@ -3,7 +3,8 @@ This project allows you to use the old PenguinGPT exstension in PeguinMod a mode
 
 Here's some sample code please add you API Key later
 
-<img width="597" height="571" alt="Screen Shot 2026-08-30 at 1 54 07 AM" src="https://github.com/user-attachments/assets/cc3c742e-77bf-4fc9-8451-1da300abc377" />
+<img width="568" height="570" alt="Screen Shot 2026-09-04 at 5 08 52 PM" src="https://github.com/user-attachments/assets/ec48c0c9-38b4-4bf0-bbce-16788d342db1" />
+
 
 To load Our Exstension follow this guide
 
